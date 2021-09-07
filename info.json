@@ -1,0 +1,12 @@
+{
+  "name": "TradingFun Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/TradingFun/logo/main/logo.jpg",
+  "keywords": ["tokenlist", "tokens"],
+  "timestamp": "2021-09-08T00:00:00+00:00",
+  "tokens": [{"chainId": 56, "address": "0xa37cdb95bb5951b5e9e5ad33717e095990510734", "symbol": "VIW", "name": "TradingView Fun Token", "decimals": 10, "logoURI": "https://raw.githubusercontent.com/TradingFun/logo/main/logo.jpg"}],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
